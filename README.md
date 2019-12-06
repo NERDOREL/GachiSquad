@@ -1,1 +1,2 @@
 # GachiSquad
+#хуй
